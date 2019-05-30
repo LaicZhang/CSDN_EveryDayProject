@@ -7,7 +7,22 @@ If you want to learn more , please follow me everyday.<br>
 
 ## 目录
 ### python
-[数字组合](https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/%E6%95%B0%E5%AD%97%E7%BB%84%E5%90%88.py)
+<table>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/%E6%95%B0%E5%AD%97%E7%BB%84%E5%90%88.py>数字组合</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/个税计算.py>个税计算</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/完全平方数.py>完全平方数</a>
+  </td>
+</tr>
+
+</table>
+
+
 ### C/C++
 待更新
 ### java
