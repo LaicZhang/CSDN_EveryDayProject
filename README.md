@@ -5,12 +5,9 @@ All topics is suitable to beginners .<br>
 If you want to learn more , please follow me everyday.<br>
 <br>
 
+## 目录
+[数字组合](https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/%E6%95%B0%E5%AD%97%E7%BB%84%E5%90%88.py)
 
 
-
-About me:<br>
-CSDN：https://blog.csdn.net/qq_44621510
-<br>
-mailbox：zy7298@icloud.com
-<br>
-qq:3236138736
+## About me:
+[CSDN博客](https://blog.csdn.net/qq_44621510)
