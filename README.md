@@ -24,7 +24,24 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/这天第几天.py>这天第几天</a>
   </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/三数排序.py>三数排序</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/copy.py>copy</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/九九乘法表.py>九九乘法表</a>
+  </td>
 </tr>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/暂停一秒输出.py>暂停一秒输出</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/给人看的时间.py>给人看的时间</a>
+  </td>
+</tr>  
 
 </table>
 
