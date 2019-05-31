@@ -48,8 +48,6 @@ If you want to learn more , please follow me everyday.<br>
 
 ### C/C++
 待更新
-### java
-待更新
 ### web
 待更新
 ### 计算机基础
