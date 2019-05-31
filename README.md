@@ -1,9 +1,16 @@
 # CSDN_EveryDayProject
+
+这是关于我的CSDN的blink的存储库。<br>
+关于python，java，C，C ++等有很多简单的题目。<br>
+所有主题都适合初学者。<br>
+如果您想了解更多信息，请每天关注我。<br>
+
 This is a repository about my CSDN blink. <br>
 There are many easy topics about python , java , C , C++ , and so on.<br>
 All topics is suitable to beginners .<br>
 If you want to learn more , please follow me everyday.<br>
 <br>
+
 
 ## 目录
 ### python
