@@ -41,6 +41,24 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/给人看的时间.py>给人看的时间</a>
   </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/养兔子.py>养兔子</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/100到200的素数.py>100到200的素数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/水仙花数.py>水仙花数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/分解质因数.py>分解质因数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/分数归档.py>分数归档</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/输出日期.py>输出日期</a>
+  </td>
 </tr>  
 
 </table>
