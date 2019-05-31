@@ -60,6 +60,20 @@ If you want to learn more , please follow me everyday.<br>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/输出日期.py>输出日期</a>
   </td>
 </tr>  
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/字符串构成.py>字符串构成</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/复读机相加.py>复读机相加</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/完数.py>完数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/高空抛物.py>高空抛物</a>
+  </td>
+</tr>  
 
 </table>
 
