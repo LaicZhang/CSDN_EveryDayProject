@@ -18,6 +18,12 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/完全平方数.py>完全平方数</a>
   </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/斐波那契数列.py>斐波那契数列</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/这天第几天.py>这天第几天</a>
+  </td>
 </tr>
 
 </table>
