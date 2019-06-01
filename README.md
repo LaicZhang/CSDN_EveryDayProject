@@ -82,7 +82,39 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/高空抛物.py>高空抛物</a>
   </td>
-</tr>  
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/猴子偷桃.py>猴子偷桃</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/比赛对手.py>比赛对手</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/画菱形.py>画菱形</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/斐波那契数列II.py>斐波那契数列II</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/阶乘求和.py>阶乘求和</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/递归求阶乘.py>递归求阶乘</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/递归输出.py>递归输出</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/递归求等差数列.py>递归求等差数列</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/反向输出.py>反向输出</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/回文数.py>回文数</a>
+  </td>
+</tr>
 
 </table>
 
