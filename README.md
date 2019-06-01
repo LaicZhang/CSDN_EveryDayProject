@@ -13,8 +13,8 @@ If you want to learn more , please follow me everyday.<br>
 
 
 ## 目录
-### python
-原例为Python2.7版本,用python3重写
+### Python
+原例为Python2.7版本,用python3重写，共计100题。
 <a href=https://www.runoob.com/python/python-100-examples.html>原题地址</a>
 <table>
 <tr>
@@ -121,11 +121,11 @@ If you want to learn more , please follow me everyday.<br>
 
 ### C/C++
 待更新
-### web
+### Web
 待更新
 ### 计算机基础
 待更新
-## About me:
+## About me
 [CSDN博客](https://blog.csdn.net/qq_44621510)
 <br>
 [知乎-python爬虫三百篇-更新中](https://zhuanlan.zhihu.com/c_1117459054397693952)
