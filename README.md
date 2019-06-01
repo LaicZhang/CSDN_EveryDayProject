@@ -114,7 +114,14 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/回文数.py>回文数</a>
   </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/字母识词.py>字母识词</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/反向输出II.py>反向输出II</a>
+  </td>
 </tr>
+  
 
 </table>
 
