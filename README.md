@@ -121,6 +121,32 @@ If you want to learn more , please follow me everyday.<br>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/反向输出II.py>反向输出II</a>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/列表转字符串.py>列表转字符串</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/调用函数.py>调用函数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/设置输出颜色.py>设置输出颜色</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/算素数.py>算素数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/排序.py>排序</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/矩阵对角线之和.py>矩阵对角线之和</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/有序列表插入元素.py>有序列表插入元素</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/逆序列表.py>逆序列表</a>
+  </td>
+</tr>
   
 
 </table>
