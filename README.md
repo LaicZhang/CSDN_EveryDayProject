@@ -15,6 +15,7 @@ If you want to learn more , please follow me everyday.<br>
 ## 目录
 ### Python
 原例为Python2.7版本,用python3重写，共计100题。
+100题都做完的话差不多就算是入了python的门了。
 <a href=https://www.runoob.com/python/python-100-examples.html>原题地址</a>
 <table>
 <tr>
