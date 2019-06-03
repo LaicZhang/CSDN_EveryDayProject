@@ -148,7 +148,39 @@ If you want to learn more , please follow me everyday.<br>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/逆序列表.py>逆序列表</a>
   </td>
 </tr>
-  
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/类的方法与变量.py>类的方法与变量</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/变量作用域.py>变量作用域</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/作用域、类的方法与变量.py>作用域、类的方法与变量</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/矩阵相加.py>矩阵相加</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/求和.py>求和</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/打破循环.py>打破循环</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/函数交换变量.py>函数交换变量</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/数字比大小.py>数字比大小</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/lambda.py>lambda</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/随机数.py>随机数</a>
+</tr>  
 
 </table>
 
