@@ -197,3 +197,6 @@ If you want to learn more , please follow me everyday.<br>
 [知乎-python爬虫三百篇-更新中](https://zhuanlan.zhihu.com/c_1117459054397693952)
 <br>
 LaicZhang的博客-搭建中
+
+## 其他
+欢迎star和follow。
