@@ -198,5 +198,3 @@ If you want to learn more , please follow me everyday.<br>
 <br>
 LaicZhang的博客-搭建中
 
-## 其他
-欢迎star和follow。
