@@ -245,6 +245,12 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/字符串长度II.py>字符串长度II</a>
   </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/输入和输出.py>输入和输出</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/创建链表.py>创建链表</a>
+  </td>
 </tr>  
 </table>
 
