@@ -251,7 +251,33 @@ If you want to learn more , please follow me everyday.<br>
   <td>
     <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/创建链表.py>创建链表</a>
   </td>
-</tr>  
+</tr>
+<tr>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/反向输出链表.py>反向输出链表</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/列表排序连接.py>列表排序、连接</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/不知所云.py>不知所云</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/做函数.py>做函数</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/遍历列表.py>遍历列表</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/字典.py>字典</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/字符串排序.py>字符串排序</a>
+  </td>
+  <td>
+    <a href=https://github.com/LaicZhang/CSDN_EveryDayProject/blob/master/python3.7/猴子分桃.py>猴子分桃</a>
+  </td>
+</tr> 
 </table>
 
 
